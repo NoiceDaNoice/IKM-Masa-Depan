@@ -26,6 +26,7 @@ import org.jetbrains.annotations.NotNull;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Objects;
 
 public class DetailActivity extends AppCompatActivity {
     ImageView image;
@@ -39,7 +40,7 @@ public class DetailActivity extends AppCompatActivity {
         setContentView(R.layout.activity_detail);
         Bundle bundle = getIntent().getExtras();
         String idModel = bundle.getString("id");
-
+        Objects.requireNonNull(getSupportActionBar()).setTitle("Detail");
         pb = findViewById(R.id.pb2);
         pb.setVisibility(View.VISIBLE);
         daoIkm.getId(idModel).addValueEventListener(new ValueEventListener() {

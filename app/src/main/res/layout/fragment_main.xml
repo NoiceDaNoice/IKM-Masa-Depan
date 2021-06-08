@@ -18,6 +18,7 @@
         android:orientation="vertical">
 
         <Spinner
+            android:padding="10dp"
             android:id="@+id/spinner"
             android:layout_width="match_parent"
             android:layout_height="50dp"/>
@@ -26,9 +27,9 @@
             android:id="@+id/rvMain"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            tools:listitem="@layout/rv_main"
+            android:background="@drawable/gradient_one"
             android:paddingTop="8dp"
-            android:background="@color/greyRV"/>
+            tools:listitem="@layout/rv_main" />
     </LinearLayout>
 
 </FrameLayout>
