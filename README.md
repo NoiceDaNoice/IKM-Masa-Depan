@@ -9,7 +9,6 @@ C0050480 - Juan Almer Dylan\
 C0050487 - Muhammad Ikhsan Arifiansyah\
 M3342989 - Alina Firdhausya\
 M0040236 - Mazaya Yumna\
-\
 
 Aplikasi Android ada di branch https://github.com/NoiceDaNoice/IKM-Masa-Depan/tree/IKM-Masa-Depan-App 
 
