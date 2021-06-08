@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">IkmMasaDepanApp</string>
+    <string name="tab1">IKM</string>
+    <string name="tab2">Add IKM</string>
+    <string-array name="type">
+        <item>Semua</item>
+        <item>Jasa</item>
+        <item>Perlengkapan</item>
+        <item>Pakaian</item>
+        <item>Kesehatan</item>
+        <item>Gaming</item>
+        <item>Otomotif</item>
+        <item>Makanan</item>
+        <item>Komputer</item>
+        <item>Kecantikan</item>
+        <item>Seni</item>
+    </string-array>
+
+    <string-array name="insert_type">
+        <item>Jasa</item>
+        <item>Perlengkapan</item>
+        <item>Pakaian</item>
+        <item>Kesehatan</item>
+        <item>Gaming</item>
+        <item>Otomotif</item>
+        <item>Makanan</item>
+        <item>Komputer</item>
+        <item>Kecantikan</item>
+        <item>Seni</item>
+    </string-array>
+
+</resources>

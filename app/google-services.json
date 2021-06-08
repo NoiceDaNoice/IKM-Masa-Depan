@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "516403390948",
+    "firebase_url": "https://ikm-masa-depan-app-default-rtdb.firebaseio.com",
+    "project_id": "ikm-masa-depan-app",
+    "storage_bucket": "ikm-masa-depan-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516403390948:android:52d3e252efd84c79c03ff1",
+        "android_client_info": {
+          "package_name": "com.example.ikmmasadepanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516403390948-mtjp7r09rejioboqe5at2bld5ohtfjdv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ikmmasadepanapp",
+            "certificate_hash": "a6f101d858961017ff1c04b89a6b84eabaa3b696"
+          }
+        },
+        {
+          "client_id": "516403390948-3vc9rb5rami0du4abjt6b4q4i2mgscqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBabmDlaFyDgG6PzhwwZyeUZuQwGpYvHu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516403390948-3vc9rb5rami0du4abjt6b4q4i2mgscqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
