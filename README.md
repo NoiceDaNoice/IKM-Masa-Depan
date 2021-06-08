@@ -6,7 +6,7 @@ adapt to today's marketing strategies to increase their sales so they will not f
 end in bankruptcy. For that reason we need to see various potential alternatives media to be
 used as a media marketing.
 
-# Team:
+# Team
 A0050472 - Gary Adam\
 A0050477 - Muhammad Alvito Kuntjoro\
 C0050480 - Juan Almer Dylan\
@@ -14,5 +14,6 @@ C0050487 - Muhammad Ikhsan Arifiansyah\
 M3342989 - Alina Firdhausya\
 M0040236 - Mazaya Yumna
 
+# Android App
 Aplikasi Android ada di branch https://github.com/NoiceDaNoice/IKM-Masa-Depan/tree/IKM-Masa-Depan-App 
 
