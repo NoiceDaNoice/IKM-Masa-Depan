@@ -20,3 +20,6 @@ M0040236 - Mazaya Yumna
 ## Android App
 Aplikasi Android ada di branch [IKM-Masa-Depan-App](/https://github.com/NoiceDaNoice/IKM-Masa-Depan/tree/IKM-Masa-Depan-App)
 
+## Machine Learning
+[Product_Categories_Classification](https://github.com/NoiceDaNoice/IKM-Masa-Depan/blob/main/Product_Categories_Classification.ipynb)
+
